@@ -446,7 +446,7 @@ $response .= "Thanks for using our service, \r\n Brought to you by Imbokodo\r\n"
 else if ($text == "1*2*3*1*2") {
 $response = "CON N Organisasie sal binnekort met \r\n u in verbinding tree met 'n veiligheidsplan\r\n";
 $response .= "\n";
-$response .= "Dankie vir diegebruik van ons diens, \r\n gebring deur Imbokodo\r\n"";
+$response .= "Dankie vir diegebruik van ons diens, \r\n gebring deur Imbokodo\r\n";
 }
 //if user cancels
 else if ($text == "1*2*3*1*0") {
